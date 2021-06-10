@@ -1,0 +1,48 @@
+body {
+background-image: url(https://www.google.com/url?sa=i&url=http%3A%2F%2Fgramasdiamante.com.br%2Fnoticia%2Fgrama-natural-conheca-sua-origem&psig=AOvVaw2jidRCEBgSGbAx72D5n_E7&ust=1623375416204000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODc5er2i_ECFQAAAAAdAAAAABAD);
+color: black;background-repeat: repeat-x;
+}
+button{float: left; border:1px solid; padding: 11px 21px; vertical-align: middle; background:#2D888F; color:black;border-radius:6px;
+align-self: center;font-size: 15pt;font-family:helvetica serif; text-decoration:none;}
+/*formatação de interface*/
+div#interface{
+width: 790px;
+height: 300px;
+}
+section#corpo {
+display: block;
+width: 400px;
+height: 300px;
+float: left;}
+div#farmacia{
+	margin: 80px 60px auto 60px;
+
+}
+nav#menu  li{
+			display:block;
+			float: left;
+			list-style:none;
+			text-transform: uppercase;
+			background-color:#2D888F;
+			padding: 5px;
+			margin: 0px 20px auto auto	;}
+
+		nav#menu ol, ul {
+			padding:0px;
+			margin: 0px;
+		}
+		nav#menu ul{
+			display:none;
+		}
+		nav#menu ol li:hover > ul{
+			display: block;
+		}
+		nav#menu ul{
+			vertical-align: 10px;
+					}
+		nav#menu a {
+			color: #000000;
+			text-decoration: none;
+		}
+
+

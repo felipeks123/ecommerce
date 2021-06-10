@@ -1,0 +1,140 @@
+body {
+background-image: url(logo1.png);
+color: black;background-repeat: no-repeat;
+background-color: yellowgreen;
+}
+a{
+color: black;vertical-align: middle;background: green;border-radius: 6px;font-size: 15px;
+font-family:helvetica,serif;text-decoration:none;padding: 11px 21px;border:1px solid;float:left;
+margin: 10px 10px 10px 20px;box-shadow:0px 0px 20px black;
+}
+button{float: left; border:1px solid; padding: 11px 21px; vertical-align: middle; background:#2D888F; color:black;border-radius:6px;
+align-self: left;font-size: 15pt;font-family:helvetica serif; text-decoration:none;}
+/*aqui entra os codigos de formatação do menu */
+a:hover	{background-color: greenyellow;
+transition:background-color 1.5s;
+
+}
+/*formatação de interface*/
+
+iframe#carrossel{
+    margin: 200px 200px auto 10px;
+position:relative;
+}
+div#interface{
+width: 790px;
+height: 300px;
+}
+section#corpo {
+display: block;
+width: 400px;
+height: 300px;
+float: left;
+
+}
+iframe#video{
+	margin: 180px 500px 000px -552px;
+}
+
+aside#lateral{
+
+display: block;
+width:770px;
+float: right;
+
+}
+div#rodape{
+    padding: 602px;
+    float: left;
+}
+body img#face{
+margin: auto auto auto 100px;
+border: 1px solid yellowgreen;
+margin: 0px 0px 0px 105px
+}
+body img#instagram{
+margin: auto auto auto 100px;
+border: 1px solid yellowgreen;
+margin:
+}
+body img#whatsapp{
+margin: auto auto auto 100px;
+border: 1px solid yellowgreen;
+margin: 0px 0px 0px 130px
+}
+
+/*para o formulário de contatos*/
+form#contato
+{margin: 100px 30px;
+width: 400px;
+padding:1em;
+border:0px solid #CCC;
+position: relative;
+width: 200px;
+height: 200px;
+float: left;
+align-content:left;}
+
+form div+div{margin-top: 1em;}
+
+label{display: inline-block;
+    width: 90px;
+    text-align: right;}
+
+ input, textarea{font: 1em sans-serif;
+ 	width: 300px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+	 border: 1px solid #999;
+}
+
+input:focus, textarea:focus {    border-color: #000;
+}
+
+textarea {
+    vertical-align: top;
+    height: 15em;
+    resize: vertical;
+}
+
+h1#contato1{
+	margin: 60px 0px 0px 0px;
+    font-style:helvetica;
+    font-size:50px;
+    text-align: left;
+    padding: 20px 10px 0px 45px;
+
+}
+
+.formin fieldset label span{position:relative; top:5px; margin-left:2px;}
+div#contato3{
+    position: static;
+    width: 00px;
+    height: 100px;
+    float: right;
+    align-content:left;
+    margin: 110px 0px 0px ;
+    width: 400px;
+    padding:55px;
+
+
+}
+nav#menu{
+     margin: 0px 0px 0px 190px;
+     padding: 75px;
+}
+a#botaoretornar {
+
+    margin: 390px 0px 0px 359px
+}
+h4{
+    text-transform:uppercase;
+}
+div#container
+{width:200px;
+height: 200px;
+
+
+}
+
+
